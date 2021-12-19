@@ -157,40 +157,6 @@ h4
     text-decoration: none;
   }
 
-#CD
-{
-    padding-top: 7%;
-    background-color: inherit;
-    margin: auto;
-    display: flex;
-    width: 40%;
-}
-
-#CD_button
-{
-    text-align: center;
-    background-color: rgb(34, 34, 151);
-    color: whitesmoke;
-    border: 1;
-    border-color: lightseagreen;
-    text-align: center;
-    transition-duration: 0.3s;
-    border-radius: 5px;
-    margin: auto;
-    font-size: 18px;
-    max-width: fit-content;
-    padding-top: 2%;
-    padding-bottom: 2%;
-}
-
-#CD_button:hover
-{
-    color: white;
-    animation: ease-out;
-    border-radius: 3%;
-    border-color: red;
-}
-
 .reset
 {
     padding-top: 2%;
